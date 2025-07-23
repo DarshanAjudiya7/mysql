@@ -84,7 +84,7 @@ Modify queries or test with your own data for practice.
 
 ---
 
-🛠️ Requirements
+# 🛠️ Requirements
 
 A working SQL database (PostgreSQL or MySQL recommended)
 
@@ -94,7 +94,7 @@ Any SQL-compatible client for executing queries
 
 ---
 
-🙌 Contributing
+# 🙌 Contributing
 
 Found an issue or want to add new queries?
 You’re welcome to contribute! Open a pull request or raise an issue.
@@ -102,7 +102,7 @@ You’re welcome to contribute! Open a pull request or raise an issue.
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Darshan Ajudiya
 📧 ajudiyadarshan@gmail.com
@@ -111,16 +111,14 @@ Darshan Ajudiya
 
 ---
 
-📄 License
+# 📄 License
 
 This project is open-sourced under the MIT License
 
 
 ---
 
-⭐ If this helped you, give it a star!
+# ⭐ If this helped you, give it a star!
 
----
 
-Let me know if you want a Hindi version also or a `.md` file copy ready to upload.
 
